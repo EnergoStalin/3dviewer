@@ -1,0 +1,12 @@
+report
+install
+build
+docs
+dist
+.xmake
+.cache
+.clangd
+
+compile_commands.json
+.luarc.json
+dist.tar
